@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rupsha Debnath</h1>
 <h3 align="center">A passionate developer from Kolkata</h3>
-<p align="center">
+<!--<p align="center">
 <a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner😀&font=Fira%20Code&center=true&width=500&height=45&color=33DDFF&vCenter=true&size=23"></a>
-</p>
+</p>-->
+
+<div align="center">
+  <h3><b> Profile Visitor Count </b></h3>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup2002&label=Profile%20views&color=0e75b6&style=flat" alt="rup2002" /> </p>
 
