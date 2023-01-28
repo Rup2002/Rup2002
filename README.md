@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupsha Debnath</h1>
 <h3 align="center">A passionate developer from Kolkata</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw19l1jWWx4Yfs7qWr6nekTU&ust=1674979968655000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPiEueLo6fwCFQAAAAAdAAAAABAO">
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC01MHJGb2hBS1k0VjNsV0E2aXpUZTlpbHFpZ3xBQ3Jtc0trVVBQZ0dwQktfaGl0OWo1Rm1qY0F5c2o2b3I1d09RZmpZZVRtMzJrekI1OE9pRFNrVlpvNnJ3NUFQRE9Xc2ZDU2dVSG1XNUVtdWlEamJXOGp6N21LSl90SldiQ3cxWlFDMmtETWljQlBwNkpSaENkcw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup2002&label=Profile%20views&color=0e75b6&style=flat" alt="rup2002" /> </p>
 
