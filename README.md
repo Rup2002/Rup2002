@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rupsha Debnath</h1>
 <h3 align="center">A passionate developer from Kolkata</h3>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner😀&font=Fira%20Code&center=true&width=500&height=45&color=33DDFF&vCenter=true&size=23">
+<p align="center">
+<a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner😀&font=Fira%20Code&center=true&width=500&height=45&color=33DDFF&vCenter=true&size=23"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup2002&label=Profile%20views&color=0e75b6&style=flat" alt="rup2002" /> </p>
 
@@ -13,6 +15,7 @@
 - ⚡ Fun fact **I am an Ambivert...🙂**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left">
 <a href="https://twitter.com/rup2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rup2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupsha debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupsha debnath" height="30" width="40" /></a>
