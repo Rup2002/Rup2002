@@ -7,6 +7,8 @@
 <div align="center">
   <h3><b> Profile Visitor Count </b></h3>
 </div>
+<p align="center"><img src="https://profile-counter.glitch.me/099ayuh/count.svg" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup2002&label=Profile%20views&color=0e75b6&style=flat" alt="rup2002" /> </p>
 
